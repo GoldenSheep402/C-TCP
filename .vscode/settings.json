@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tmpl": "html",
+        "*.md": "markdown",
+        "*.vue": "vue",
+        "stdio.h": "c",
+        "netdb.h": "c",
+        "string.h": "c"
+    }
+}
